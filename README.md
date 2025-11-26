@@ -1,5 +1,5 @@
 # python
-PyThon project Ex
+Python project Ex
 
 ****
 
