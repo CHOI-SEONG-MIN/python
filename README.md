@@ -1,2 +1,9 @@
 # python
-PyThon Project Ex
+PyThon project Ex
+
+****
+
+kosmo 수업용 python Project 
+
+****
+
